@@ -1,0 +1,4 @@
+What Makes Drupal Console Unique?
+
+From the ground up Drupal Console is using the modern PHP practices introduced into Drupal 8, including object-oriented PHP. The Drupal Console isn't a Drupal module, but was built with the Symfony Console Component and other libraries, such as Twig, to generate PHP, YAML, and other file types used in Drupal 8 module development. It is a tool designed for anyone using or planning to use Drupal 8. At the moment, it is used via a CLI, but there are plans to make it accessible through the Drupal administrative interface. Drupal Console works with Drupal 8, and because of the nature of its code base and use of modern PHP, will not be ported to work with Drupal 6 or 7, but instead plans to support Drupal versions from 8 onward.
+
